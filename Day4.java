@@ -1,11 +1,7 @@
 package day4;
 
-import java.util.Calendar;
-
-
 public class Day4 {
 
-    
     public static void main(String[] args) {
             System.out.printf("Halo %s, umur kamu %d tahun\n", "nuzul", 20);
             // printf untuk mencetak karakter terformat,

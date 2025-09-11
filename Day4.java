@@ -7,7 +7,7 @@ public class Day4 {
             // printf untuk mencetak karakter terformat,
             //mirip dengan print,tetapi dengan format tertentu.
             
-            System.out.println("saya nuzul taufik");
+            System.out.println("saya nuzul taufikH\b");
             //println untuk mencetak dengan membuat baris baru setelahnya.
             
             System.out.print("nuzul taufik\n");

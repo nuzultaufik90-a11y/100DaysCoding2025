@@ -19,7 +19,7 @@ public class Day4 {
             //Karena materi day 4 juga sama dengan materi day 2
             //maka saya kasih gabung juga di materi day 2
             // yakni pembahasan mengenai Penggunaan Escape Sequence
-            // contohnya seperti (\n, \t, \b)
+            // contohnya seperti (\n, \t, \b) pada "printf".
             
     }
     

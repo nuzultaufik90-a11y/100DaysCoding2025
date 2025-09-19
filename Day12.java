@@ -15,8 +15,8 @@ public class Day12 {
         tinggi = input.nextDouble();
         
         System.out.println("\nbiodata mahasiswa :");
-        System.out.printf("Nama Lengkap : " + nama);
-        System.out.println("\nUsia : " + usia);
+        System.out.println("Nama Lengkap : " + nama);
+        System.out.printf("Usia : %d Tahun\n", usia);
         System.out.print("Tinggi Badan : " + tinggi);
         
     }

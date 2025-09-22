@@ -10,7 +10,7 @@ public class Day15 {
         int ditambah = angka1+angka2;
         int dikurang = angka3-angka4;
         System.out.println("hasil penjumlahan: "+ditambah );
-        System.out.println("hasil penjumlahan: "+dikurang ); 
+        System.out.println("hasil pengurangan: "+dikurang ); 
         
         
     }
